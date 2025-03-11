@@ -7,7 +7,9 @@
 - September 2023 - Present: Undergraduate student at Beijing Institute of Technology
 - September 2019 - June 2023: Graduate student at Beijing Institute of Technology
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZPJ-LEFT)
+### Connect
+- WeChat: zpj2724682324
+- EMail: z2724682324@gmail.com
 
 <!--
 **ZPJ-LEFT/ZPJ-LEFT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
