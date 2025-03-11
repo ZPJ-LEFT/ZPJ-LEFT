@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+### About Me
+
+### Education Experience
+
+- September 2023 - Present: Undergraduate student at Beijing Institute of Technology
+- September 2019 - June 2023: Graduate student at Beijing Institute of Technology
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZPJ-LEFT)
 
 <!--
