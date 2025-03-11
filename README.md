@@ -7,7 +7,7 @@
 - September 2023 - Present: Undergraduate student at Beijing Institute of Technology
 - September 2019 - June 2023: Graduate student at Beijing Institute of Technology
 
-### Connect
+### Contact
 - WeChat: zpj2724682324
 - EMail: z2724682324@gmail.com
 
