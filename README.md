@@ -1,68 +1,37 @@
-## Hi there 👋
+# Hi there 👋
 
-### About Me
+# 个人简介
 
-Now, I'm a **Graduate Student** majoring in Computer Technology at Beijing Institute of Technology. 
+我现在是北京理工大学的**研究生**，专业是计算机技术。
 
-Currently, I'm looking for a **Summer Internship** (From May to August).
+就读研究生期间，隶属于北京理工大学可视媒体计算实验室，主要研究课题是**基于事件相机的光流估计**。
 
-In the future, I hope to work as an **Algorithm Engineer** in an internet enterprise.
+近期正在中国电信人工智能研究院（TeleAI）进行暑期实习，研究**多模态视觉大模型**。
 
-### Research Direction
+预计2026年6月毕业，正计划寻找**AI算法岗**的工作。
 
-- Optical Flow Estimation
-    - PWCNet
-    - RAFT
-    - GMFlow
-    - FlowFormer
-- Stereo Matching
-    - GCNet
-    - PSMNet
-    - GANet
-    - AANet
-    - RAFT-Stereo
-- Object Detection
-    - R-CNN
-    - YOLO
-- Semantic Segmentation
-    - SAM
-- Diffusion Model
-    - DDPM
-    - DDIM
-    - Stable Diffusion
-- Event Camera
+# 所学技术方向
 
-### Papers
+- 事件相机（Event Camera）
+- 光流估计（Optical Flow）
+- 立体匹配（Stereo Matching）
+- 目标检测（Object Detection）
+- 扩散模型（Diffusion Model）
+- 多模态视觉大模型（Multi-modal Vision Models）
 
-- EMatch: A unified Framework for Event-based Optical Flow and Stereo Matching **(ICCV2025, Under Review)**
-- Preserving Motion Details in the Dark: Event-enhanced Optical Flow Estimation via Recurrent Feature Fusion **(IEEE TIP, Under Review)**
+# 研究项目
 
-### Projects
+- 基于事件相机的光流、视差多任务统一框架
+- 基于华为晟腾平台的YOLO小目标检测
+- 基于Stable Diffusion的图像生成与推理加速
 
-- 基于华为晟腾平台的YOLO小目标检测 (Small Object Detection with YOLO Based on Huawei Ascend Platform)
-- 基于Stable Diffusion的图像生成与推理加速 (Image Generation and Inference Acceleration based on Stable Diffusion)
-- SAM模型的图像-事件跨模态微调 (Cross-Modality Finetuning for SAM)
+# 教育经历
 
-### Education Experience
+- 2023.09 - 至今：北京理工大学 硕士
+- 2019.09 - 2023.06：北京理工大学 学士
 
-- September 2023 - Present: Graduate student at Beijing Institute of Technology
-- September 2019 - June 2023: Undergraduate student at Beijing Institute of Technology
+# 联系方式
 
-### Contact
-- EMail: z2724682324@gmail.com
-- WeChat: zpj2724682324
+- 邮箱: z2724682324@gmail.com / 3220231268@bit.edu.cn
+- 微信: zpj2724682324
 
-<!--
-**ZPJ-LEFT/ZPJ-LEFT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
