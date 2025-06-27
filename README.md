@@ -15,7 +15,7 @@
 - 立体匹配（Stereo Matching）
 - 目标检测（Object Detection）
 - 扩散模型（Diffusion Model）
-- 多模态视觉大模型（Multi-modal Vision Models）
+- 多模态视觉大模型（Multi-Modal Vision Model）
 
 ### 研究项目
 
