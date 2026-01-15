@@ -21,6 +21,10 @@
 - 基于华为晟腾平台的YOLO小目标检测
 - 基于Stable Diffusion的图像生成与推理加速
 
+### 个人成果
+
+- EMatch: A Unified Framework for Event-based Optical Flow and Stereo Matching (ICCV2025)
+
 ### 教育经历
 
 - 2023年9月 - 2026年6月：北京理工大学 硕士
