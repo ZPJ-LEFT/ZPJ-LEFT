@@ -23,7 +23,7 @@
 
 ### 个人成果
 
-- EMatch: A Unified Framework for Event-based Optical Flow and Stereo Matching (ICCV2025)
+- [EMatch: A Unified Framework for Event-based Optical Flow and Stereo Matching](https://github.com/BIT-Vision/EMatch) (ICCV2025)
 
 ### 教育经历
 
